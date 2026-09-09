@@ -1,4 +1,4 @@
-public class EstruturasDeRepeticaoExemploReal {
+public class EstruturasDeRepeticaoContinueExemploReal {
 
     // Imagina a seguinte situação na rotina de uma central de transportes:
     // você tem um sistema que processa a liberação de viagens.
